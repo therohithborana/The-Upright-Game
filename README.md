@@ -17,3 +17,7 @@ OpenCV
 MediaPipe
 NumPy
 Pygame
+
+## Screenshots
+### 1. Good posture
+![image](https://github.com/user-attachments/assets/d412aebf-fc92-4a76-9cd3-80ed5d923475)
